@@ -18,11 +18,8 @@ Edit the [info.yaml](info.yaml) and uncomment the `source_files` and `top_module
 
 The GitHub action will automatically build the ASIC files using [OpenLane](https://www.zerotoasiccourse.com/terminology/openlane/).
 
-## How to enable the GitHub actions to build the ASIC files
+## Enable GitHub actions to build the results page
 
-Please see the instructions for:
-
-- [Enabling GitHub Actions](https://tinytapeout.com/faq/#when-i-commit-my-change-the-gds-action-isnt-running)
 - [Enabling GitHub Pages](https://tinytapeout.com/faq/#my-github-action-is-failing-on-the-pages-part)
 
 ## Resources
